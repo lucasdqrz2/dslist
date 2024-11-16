@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.dto.GameMin;
+package com.devsuperior.dslist.GameMinDTO;
 
 import com.devsuperior.dslist.entities.Game;
 
